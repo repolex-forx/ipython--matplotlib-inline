@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "ipython",
+  "repo": "matplotlib-inline",
+  "versions": [
+    {
+      "commit": "30bf01b0774d92bbff91a7738b9eef3ba4a55fa6",
+      "parsed_at": "2026-09-16T14:02:28.785562+00:00",
+      "tag": "0.2.1",
+      "filetree": "filetree/30bf01b0774d92bbff91a7738b9eef3ba4a55fa6.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/c816b29836cfe958e74f8f11c5f4ddf8f0ead2b7.nq.gz",
+        "blob/b8350378e810121d96bc065a8ddaab7d2ec38308.nq.gz",
+        "blob/3b292824d15a68bbc788913c738cc896867e42f2.nq.gz",
+        "blob/9d1ededb922dc0a11cd574f94741bfe00bddc841.nq.gz",
+        "blob/329e3e782941ce0df871a24ba6c1988c34d9d68f.nq.gz",
+        "blob/4784e9a0caab5779079c23ab92d4d249a32f8c62.nq.gz",
+        "blob/a798c562a7fa6c07d32e6e0dd742d0e6c711b699.nq.gz",
+        "blob/ce9be032fbd3af9563facf42d5b950990b03317e.nq.gz",
+        "blob/21c64188ce2e8d30179dc10242f133b0d65b3964.nq.gz",
+        "blob/75e4c5d57e909f0e6bc12223b000bc5d0cad5c39.nq.gz",
+        "blob/a862d83fc07042ef7a5058a8d314789910bf2aa6.nq.gz",
+        "blob/fd328375991f666cf2ccffc80338357a98c34178.nq.gz",
+        "blob/86c88c328c0085ddedcbc01797ba95a91a900374.nq.gz",
+        "blob/d275175ecd970d64aa94db01b833fd4ebf7ce1ea.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
