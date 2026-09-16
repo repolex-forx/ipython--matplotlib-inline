@@ -1,0 +1,14 @@
+[2026-09-16T14:28:49Z] === ENRICH ITERATION 1 START | repo=ipython/matplotlib-inline sha=30bf01b0 ===
+[2026-09-16T14:28:49Z] [iter=1] PHASE START: enrich repo=ipython/matplotlib-inline sha=30bf01b0 runlog=/home/runner/work/forx/forx/storage/aggregate/lsp/logs/30bf01b0-enrich-iter-001.log output=/home/runner/work/forx/forx/storage/aggregate/lsp/30bf01b0774d92bbff91a7738b9eef3ba4a55fa6.nq.gz
+[2026-09-16T14:28:53Z] [iter=1] Step 1: Loading AST into disk-backed store mem_mb=79 MB
+[2026-09-16T14:28:54Z] [iter=1] AST store loaded triples=10826 load_secs=2 mem_mb=103 MB
+[2026-09-16T14:28:54Z] [iter=1] Step 2: Finding LSP targets mem_mb=103 MB
+[2026-09-16T14:28:54Z] [iter=1] LSP targets found call_sites=78 imports=0 extends=0 implements=0 secs=0
+[2026-09-16T14:28:54Z] [iter=1] Step 2.7: Building position index (one-shot, shared across resolvers) mem_mb=103 MB
+[2026-09-16T14:28:54Z] [iter=1] Position index built positions=748 nodes_with_types=962 secs=0 mem_mb=103 MB
+[2026-09-16T14:28:54Z] [iter=1] Step 3: Starting LSP resolution mem_mb=103 MB already_completed_types=[] already_completed_files=0
+[2026-09-16T14:28:54Z] [iter=1] Resolving target type target_type=call_site count=78
+[2026-09-16T14:28:57Z] [iter=1] Target type resolved target_type=call_site resolved=9 errors=14 secs=2 mem_mb=103 MB
+[2026-09-16T14:28:58Z] [iter=1] Step 5: Writing final enrichment file triples=548
+[2026-09-16T14:28:58Z] [iter=1] Enrichment file written path=/home/runner/work/forx/forx/storage/aggregate/lsp/30bf01b0774d92bbff91a7738b9eef3ba4a55fa6.nq.gz size_kb=8
+[2026-09-16T14:28:58Z] [iter=1] PHASE END: enrich elapsed_s=9 elapsed_min=0.1 total_triples=548
